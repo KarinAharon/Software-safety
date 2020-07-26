@@ -5,7 +5,6 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class q2 {
-//id: 312502537
 
 //This function check if a file contains 2 words, while for each word the first letter is upper letter
 //we use a null in case where an object is required. The program flies.
