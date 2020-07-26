@@ -5,7 +5,6 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class q1{
-//id: 312502537
 
 	//This function divides the row in a file by @
 	//The program continues to run even if the file is null
