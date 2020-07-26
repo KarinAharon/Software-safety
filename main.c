@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-//id: 312502537
 
 //address
 //The function receives an array and index and input in arr[index] the value 8
